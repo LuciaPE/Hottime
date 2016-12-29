@@ -1,0 +1,5 @@
+name: Hottime
+main: lucia\Hottime\Hottime
+author: lucia
+api: [2.0.0, 3.0.0-ALPHA1]
+version: 1.0.0
